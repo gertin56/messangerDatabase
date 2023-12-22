@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvL6b+9xyIJ5BN3gFCi4keBZ31WuhGrlcDfceA9AMbyXJoCzGrt3mK5mGGsfF+MknlSSposHrhEUuq3RMXhl/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\григорий\\source\\repos\\messenger\\messenger\\messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\григорий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\григорий\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\григорий\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\григорий\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\григорий\source\repos\messenger\messenger\bin\Debug\net6.0-windows\messenger.exe
+C:\Users\григорий\source\repos\messenger\messenger\bin\Debug\net6.0-windows\messenger.deps.json
+C:\Users\григорий\source\repos\messenger\messenger\bin\Debug\net6.0-windows\messenger.runtimeconfig.json
+C:\Users\григорий\source\repos\messenger\messenger\bin\Debug\net6.0-windows\messenger.dll
+C:\Users\григорий\source\repos\messenger\messenger\bin\Debug\net6.0-windows\messenger.pdb
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.csproj.AssemblyReference.cache
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.Form1.resources
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.csproj.GenerateResource.cache
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.AssemblyInfoInputs.cache
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.AssemblyInfo.cs
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.csproj.CoreCompileInputs.cache
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.dll
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\refint\messenger.dll
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.pdb
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\messenger.genruntimeconfig.cache
+C:\Users\григорий\source\repos\messenger\messenger\obj\Debug\net6.0-windows\ref\messenger.dll

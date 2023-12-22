@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcptest", "tcptest\tcptest.csproj", "{30496E51-ED4E-405B-85F6-106887AFAEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30496E51-ED4E-405B-85F6-106887AFAEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30496E51-ED4E-405B-85F6-106887AFAEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30496E51-ED4E-405B-85F6-106887AFAEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30496E51-ED4E-405B-85F6-106887AFAEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B35099-5FA7-4CFF-AEE8-BF37AD978761}
+	EndGlobalSection
+EndGlobal
